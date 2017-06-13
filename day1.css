@@ -1,0 +1,26 @@
+body{
+    background: aquamarine;
+}
+
+.aboutme{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    text-decoration: underline
+}
+
+.facts{
+    font-size: 25px;
+    font-weight: bold
+}
+
+.fact
+
+.favorites{
+    font-size: 25px;
+    font-weight: bold
+}
+
+.fav{
+    text-indent: 50px;
+}
